@@ -68,3 +68,75 @@ Key advantages include proactive monitoring, scalable infrastructure design, enh
 ## Strengthen Your Wireless Infrastructure with Expert Solutions
 
 If your business is struggling with slow connectivity, network downtime, or inconsistent wireless coverage, it is time to upgrade to a smarter solution. J3KTechnologies offers advanced managed wireless networking services designed to support enterprise growth, operational efficiency, and secure connectivity. Whether you need a full wireless deployment, optimization of existing systems, or a detailed site survey, expert support ensures your network performs at its best. Partner with experienced professionals to build a reliable wireless foundation that supports your business today and scales for tomorrow.
+
+## Services We Offer
+
+| Services |
+|---|
+| Managed IT Services |
+| Managed Wireless Network Services |
+| Data Center Services |
+|Structured Cabling Services|
+|Access Control Services|
+|Video Surveillance Services|
+
+---
+
+## Locations We Serve
+
+| Locations |
+|---|
+| Atlanta |
+| Alpharetta |
+| Marietta |
+| Sandy Springs |
+| Roswell |
+| Decatur |
+| Johns Creek |
+| Duluth |
+|Lawrenceville	  |
+| Smyrna |
+| Woodstock |
+|Kennesaw  |
+| East Point |
+| Peachtree Corners |
+|Norcross |
+| Conyers Tucker |
+|Stone Mountain	|
+| Mableton |
+| Lithonia |
+|Doraville  |
+|Chamblee  |
+|Brookhaven  |
+|Vinings  |
+|Fairburn  |
+|Austell |
+|Perry	 |
+|Warner Robbins	|
+|Macon |
+
+
+---
+
+## Industries We Serve
+
+| Industries |
+|---|
+| Healthcare |
+| Financial Services |
+| Education |
+| Legal |
+| Government and Public|
+| Retail |
+| Manufacturing and Industrial |
+| Hospitality |
+| Real Estate and Property Management |
+| Technology and Software |
+| Non-Profit Organizations |
+| Real Estate and Property Management |
+| Technology and Software |
+| Transportation and Logistics |
+| Construction and Engineering |
+| Telecommunications |
+| Media Advertising |
+
